@@ -1,0 +1,22 @@
+.input-container{
+    display: inline-block;
+    position: relative;
+}
+
+.input-container input{
+    padding-right: 30px;
+    padding: 5px;
+}
+.input-container i{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: gray;
+}
+
+.btn1{
+    padding:5px;
+}
+
